@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;SetsAndHashSet&apos;" deleteContents="false" description="Delete resource &apos;SetsAndHashSet&apos;" element1="/SetsAndHashSet" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1598535944466"/>
+</session>

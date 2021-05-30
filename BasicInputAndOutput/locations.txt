@@ -1,0 +1,6 @@
+0,Outside the house
+1,You are in aagan
+2,You are in Kitchen 
+3,You are in Hall
+4,You in your Bedroom
+5,You are in Guestroom

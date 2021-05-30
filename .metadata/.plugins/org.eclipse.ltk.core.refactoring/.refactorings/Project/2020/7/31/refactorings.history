@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;generic.Se&apos; to &apos;SE&apos;&#x0D;&#x0A;- Original project: &apos;Project&apos;&#x0D;&#x0A;- Original element: &apos;generic.Se&apos;&#x0D;&#x0A;- Renamed element: &apos;generic.SE&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Se&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;generic{Se.java[Se" matchStrategy="1" name="SE" qualified="false" references="true" similarDeclarations="false" stamp="1595920069852" textual="false" version="1.0"/>
+</session>

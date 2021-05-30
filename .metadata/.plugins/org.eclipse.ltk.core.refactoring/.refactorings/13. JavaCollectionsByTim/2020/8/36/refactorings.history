@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Sets.HeavenlyBody.addMoon(...)&apos; to &apos;addSatellite&apos;&#x0D;&#x0A;- Original project: &apos;13. JavaCollectionsByTim&apos;&#x0D;&#x0A;- Original element: &apos;Sets.HeavenlyBody.addMoon(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;Sets.HeavenlyBody.addSatellite(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;addMoon&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;Sets{HeavenlyBody.java[HeavenlyBody~addMoon~QHeavenlyBody;" name="addSatellite" references="true" stamp="1598838798325" version="1.0"/>
+</session>
